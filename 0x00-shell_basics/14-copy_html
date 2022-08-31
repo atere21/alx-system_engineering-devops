@@ -1,2 +1,3 @@
 #!/bin/bash
-Cp -nu *.html ..
+Cp -nu *.html /tmp/file_0.html 
+
