@@ -1,2 +1,4 @@
 #!/bin/bash
 mv [[:upper]]*/tmp/u/
+
+my *[[:upper:]]* /tmp/u
