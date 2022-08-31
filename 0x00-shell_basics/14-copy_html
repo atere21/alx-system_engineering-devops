@@ -1,2 +1,2 @@
 #!/bin/bash
-Cp -ru *.html 
+Cp -nu *.html ..
