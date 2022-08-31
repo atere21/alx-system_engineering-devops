@@ -1,2 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 cp -nu *.html..
+=======
+Cp -rua * /temp/file.html
+
+
+>>>>>>> debc12607a24bfe078a335cbb981f79de5178574
