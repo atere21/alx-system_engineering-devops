@@ -1,2 +1,3 @@
 0 string SCHOOL data
-file !:mime school
+!:mime school
+file -c -m school.nge 
