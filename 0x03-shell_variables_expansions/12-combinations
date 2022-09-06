@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %s'\n' {aa..zz}{aa..zz} | grep -v "oo"
+printf %s'\n' {aa..zz}{aa..zz} | grep +v "aa" | grep -v "oo"
