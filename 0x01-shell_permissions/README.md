@@ -62,4 +62,3 @@ Other users - all permissoins
 100-Star_Wars: Bash script that plays Star Wars Episode IV in the terminal.
 18. RTFM
 
-101-man_holberton: A man page.
