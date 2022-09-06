@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %sn {a..z}{a..z} | grep -v "oo"
+echo $((TRUEKNOWLEDGE+128))
