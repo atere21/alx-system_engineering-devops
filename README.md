@@ -9,3 +9,5 @@ The specific list of projects contained are as follows:
   • 0x02. Shell, I/O Redirections and filters
 
   • 0x03. Shell, init files, variables and expansions
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atere21&repo=github-readme-stats)](https://github.com/atere21/github-readme-stats)
