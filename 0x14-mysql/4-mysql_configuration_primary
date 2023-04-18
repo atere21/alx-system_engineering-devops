@@ -1,4 +1,4 @@
-#
+#!/usr/bin/env bash
 # The MySQL database server configuration file.
 #
 # You can copy this to one of:
