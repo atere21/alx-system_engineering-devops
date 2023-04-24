@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# makes nginx run as user nginx
+# makes nginx run as user Nginx
 sudo pkill apache2
-sudo chmod 644 /etc/nginx/nginx.conf
+sudo chmod 644 /etc/Nginx/Nginx.conf
 sudo sed -i 's/80/8080/' /etc/nginx/sites-enabled/default
-sudo su nginx -c "service nginx start"
+sudo su Nginx -c "service Nginx start"
