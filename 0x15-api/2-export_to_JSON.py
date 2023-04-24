@@ -21,5 +21,5 @@ if __name__ == '__main__':
                      'username': username}
                 data[sys.argv[1]].append(d)
     filename = sys.argv[1] + '.json'
-    with open(USER_ID.json, 'w') as f:
+    with open(filename, 'w') as f:
         json.dump(data, f)
